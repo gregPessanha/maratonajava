@@ -7,5 +7,6 @@ public class OlaDevDojo {
 		System.out.println("Vou dar um novo commit agora");
 		
 		System.out.println("Teste commit and push");
+		System.out.println("NOVO Teste commit and push");
 	}
 }
